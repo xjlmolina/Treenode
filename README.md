@@ -1,10 +1,11 @@
 
 <html>
 
+<body>
 <p></p>
 <p></p>
 <p></p>
-  <p><img src='Treenode_logo_grande_con_nombre.jpg' alt='Treenode' referrerPolicy='no-referrer'/></p>
+  <p><img src='https://raw.githubusercontent.com/xjlmolina/Treenode/main/Treenode_logo_grande_con_nombre.jpg' alt='Treenode' referrerPolicy='no-referrer'/></p>
 <p></p>
 <p></p>
 <p></p>
